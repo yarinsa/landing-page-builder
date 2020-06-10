@@ -52,7 +52,6 @@ header .logo {
 .header-text :first-child {
   font-weight: normal;
   color: var(--primary-color);
-  display: block;
 }
 
 .cards-container {
