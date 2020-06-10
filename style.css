@@ -31,7 +31,7 @@ header {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("https://www.mytowerapp.com/wp-content/themes/mytower/assets/images/group-2@3x.jpg");
-  background-position: left center;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -197,6 +197,10 @@ footer {
 
   .header-text {
     font-size: 3.25rem;
+  }
+
+  .header-text :first-child {
+    display: block;
   }
 
   .cards-container {
