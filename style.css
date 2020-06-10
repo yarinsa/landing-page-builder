@@ -165,7 +165,7 @@ header .logo {
 
 footer {
   background-color: var(--primary-dark);
-  height: 40px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -180,8 +180,8 @@ footer {
   transition: 0.2s all;
   fill: white;
   margin-right: 15px;
-  width: 24px;
-  height: 24px;
+  width: 32px;
+  height: 32px;
 }
 
 .social-media-link-item:hover svg path {
